@@ -1,0 +1,16 @@
+D:\pengw\github\SoliCap\SoliCap\bin\Release\SoliCap.exe
+D:\pengw\github\SoliCap\SoliCap\bin\Release\SoliCap.pdb
+D:\pengw\github\SoliCap\SoliCap\bin\Release\KeyHookLib.dll
+D:\pengw\github\SoliCap\SoliCap\bin\Release\KeyHookLib.pdb
+D:\pengw\github\SoliCap\SoliCap\obj\Release\ResolveAssemblyReference.cache
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.Forms.FormColumn.resources
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.Forms.FormProcess.resources
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.MainForm.resources
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.Properties.Resources.resources
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.Forms.FormHelp.resources
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.Forms.FormAbout.resources
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.Forms.FormTimer.resources
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.ResSoli.resources
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.csproj.GenerateResource.Cache
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.exe
+D:\pengw\github\SoliCap\SoliCap\obj\Release\SoliCap.pdb

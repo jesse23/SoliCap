@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!--SoliCap Setting Files-->
+<!--Column Settings-->
+<Settings>
+  <bIsCPUUsage>True</bIsCPUUsage>
+  <bIsVQCurrent>True</bIsVQCurrent>
+  <bIsVQPeak>False</bIsVQPeak>
+  <bIsWSCurrent>True</bIsWSCurrent>
+  <bIsWSPeak>True</bIsWSPeak>
+  <bIsPFCurrent>False</bIsPFCurrent>
+  <bIsPFPeak>False</bIsPFPeak>
+  <bIsVQCommitted>False</bIsVQCommitted>
+  <bIsVQReversed>False</bIsVQReversed>
+  <bIsVQWasted>False</bIsVQWasted>
+  <bIsVQFree>False</bIsVQFree>
+  <bIsStartTime>False</bIsStartTime>
+  <bIsExitTime>False</bIsExitTime>
+  <bIsFileName>False</bIsFileName>
+  <!--Timer Settings-->
+  <SysKey>0</SysKey>
+  <NormalKey>114</NormalKey>
+  <bIsLockBaseWhenStart>True</bIsLockBaseWhenStart>
+  <bIsStopRefreshWhenStop>False</bIsStopRefreshWhenStop>
+  <!--Memory Unit Settings-->
+  <eUnitType>MB</eUnitType>
+</Settings>

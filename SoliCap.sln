@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoliCap", "SoliCap\SoliCap.csproj", "{188B55AA-E1AE-4B3E-867A-779899AE4922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyHookLib", "KeyHookLib\KeyHookLib.csproj", "{3515F9E2-CB8E-4EFD-9CE9-AB9D34A22DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{188B55AA-E1AE-4B3E-867A-779899AE4922}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{188B55AA-E1AE-4B3E-867A-779899AE4922}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{188B55AA-E1AE-4B3E-867A-779899AE4922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188B55AA-E1AE-4B3E-867A-779899AE4922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3515F9E2-CB8E-4EFD-9CE9-AB9D34A22DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3515F9E2-CB8E-4EFD-9CE9-AB9D34A22DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3515F9E2-CB8E-4EFD-9CE9-AB9D34A22DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3515F9E2-CB8E-4EFD-9CE9-AB9D34A22DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

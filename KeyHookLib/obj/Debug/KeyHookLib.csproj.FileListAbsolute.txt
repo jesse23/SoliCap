@@ -1,0 +1,5 @@
+D:\pengw\github\SoliCap\KeyHookLib\bin\Debug\KeyHookLib.dll
+D:\pengw\github\SoliCap\KeyHookLib\bin\Debug\KeyHookLib.pdb
+D:\pengw\github\SoliCap\KeyHookLib\obj\Debug\ResolveAssemblyReference.cache
+D:\pengw\github\SoliCap\KeyHookLib\obj\Debug\KeyHookLib.dll
+D:\pengw\github\SoliCap\KeyHookLib\obj\Debug\KeyHookLib.pdb
